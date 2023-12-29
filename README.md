@@ -1,4 +1,4 @@
-                                                                    Interactive Drawing Applet in Java
+                                     Interactive Drawing Applet in Java
 
 Description:
 🚀 Excited to share my latest Java project – an interactive drawing applet! 🎨✨
